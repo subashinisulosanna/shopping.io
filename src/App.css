@@ -1,0 +1,18 @@
+.right{
+    text-align: end;
+    max-width: 60%;
+    margin-top: 20px;
+    color: blue;
+}
+.top{
+    margin-top: 10px;
+}
+.margin{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.heading{
+   font-family: Arial, Helvetica, sans-serif;
+    color: rgb(220, 20, 110);
+    
+}
